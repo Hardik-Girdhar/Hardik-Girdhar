@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hardik-Girdhar](https://github.com/Hardik-Girdhar)
 
-- 💬 Ask me about **html and css**
+- 💬 Ask me about **html, css, c++, java, python**
 
 - 📫 How to reach me **hardikgirdhar120@gmail.com**
 
