@@ -1,17 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hardik</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **c++ and javascript**
+- 🔭 I’m currently working on **java and algorithms**
 
 - 🌱 I’m currently learning **dsa and full stack webdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hardik-Girdhar](https://github.com/Hardik-Girdhar)
 
-- 💬 Ask me about **html, css, c++, java, python**
+- 💬 Ask me about ** java ,html, css, c++ **
 
 - 📫 How to reach me **hardikgirdhar120@gmail.com**
 
