@@ -22,10 +22,7 @@
 <a href="https://leetcode.com/u/Hardik120" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="@leetcode_hardik" height="30" width="40" />
 </a>
-<a href="https://twitter.com/hardik12779266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardik12779266" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/hardik-girdhar-523b5b221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hardik-girdhar-523b5b221" height="30" width="40" /></a>
-<a href="https://fb.com/hardik.girdhar.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hardik.girdhar.94" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik_girdhar120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_girdhar120" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardik-girdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hardik-girdhar-523b5b221" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
