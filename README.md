@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hardik-Girdhar](https://github.com/Hardik-Girdhar)
 
-- 💬 Ask me about ** java ,html, css, c++ **
+- 💬 Ask me about ** java ,dsa, html, css, js, react**
 
 - 📫 How to reach me **hardikgirdhar120@gmail.com**
 
-- ⚡ Fun fact **I think I am very Quick Learner**
+- ⚡ Fun fact **I am very Quick Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,6 @@
 <a href="https://fb.com/hardik.girdhar.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hardik.girdhar.94" height="30" width="40" /></a>
 <a href="https://instagram.com/hardik_girdhar120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_girdhar120" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@12109777_hardik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@12109777_hardik" height="30" width="40" /></a>
-<a href="https://leetcode.com/Hardik120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="@12109777_hardik" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
