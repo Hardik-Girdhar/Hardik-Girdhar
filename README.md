@@ -22,7 +22,7 @@
 <a href="https://leetcode.com/u/Hardik120" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="@leetcode_hardik" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/hardik-girdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hardik-girdhar-523b5b221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardik-girdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hardik-girdhar-523b5b221" height="25" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
