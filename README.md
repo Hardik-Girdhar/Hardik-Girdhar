@@ -1,3 +1,4 @@
+![logo](https://github.com/Hardik-Girdhar/Hardik-Girdhar/blob/main/Hardik%20v2-3.png)
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
