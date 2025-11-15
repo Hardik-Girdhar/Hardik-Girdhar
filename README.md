@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hardik-Girdhar](https://github.com/Hardik-Girdhar)
 
-- 💬 Ask me about ** java ,dsa, html, css, js, react**
+- 💬 Ask me about ** Spring, MicroServices, java, dsa, react**
 
 - 📫 How to reach me **hardikgirdhar120@gmail.com**
 
