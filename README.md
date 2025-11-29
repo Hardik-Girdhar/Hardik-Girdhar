@@ -58,8 +58,21 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-girdhar&show_icons=true&locale=en&layout=compact" alt="hardik-girdhar" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-girdhar&show_icons=true&locale=en&layout=compact" alt="hardik-girdhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-girdhar&show_icons=true&locale=en" alt="hardik-girdhar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-girdhar&" alt="hardik-girdhar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-girdhar&" alt="hardik-girdhar" /></p> -->
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-girdhar&layout=compact&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-girdhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=hardik-girdhar&theme=tokyonight&hide_border=false" />
+</p>
+
