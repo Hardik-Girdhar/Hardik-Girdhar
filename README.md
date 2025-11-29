@@ -65,14 +65,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-girdhar&" alt="hardik-girdhar" /></p> -->
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-girdhar&layout=compact&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hardik-girdhar&layout=compact&show_icons=true&theme=radical" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-girdhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hardik-girdhar&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=hardik-girdhar&theme=tokyonight&hide_border=false" />
+  <img align="center" src="https://streak-stats.demolab.com?user=hardik-girdhar&theme=radical" />
 </p>
+
 
